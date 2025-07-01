@@ -1,1 +1,3 @@
-echo # git-essentials
+# git-essentials
+important stuff
+## Deployment notes
